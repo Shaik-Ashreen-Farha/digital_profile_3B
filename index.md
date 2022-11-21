@@ -3,7 +3,6 @@ Shaik Ashreen Farha
 
 -------------------     ----------------------------
 Email Id                 ashreenfarha18@gmail.com
-phone no                 8790670307
 MyCountry                India
 LinkedIn                 [LinkedIn(https://in.linkedin.com/)
 -------------------     ----------------------------
@@ -11,7 +10,7 @@ LinkedIn                 [LinkedIn(https://in.linkedin.com/)
 Education
 ---------
 
-2018-2022 (expected)
+2018-2022
 :   **B.Tech, Information Technology**; RVR & JC College Of Engineering,Guntur
 
     
